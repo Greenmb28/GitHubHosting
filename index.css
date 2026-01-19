@@ -1,0 +1,47 @@
+.home
+{
+width: auto;
+height: auto;
+margin: auto;
+display: center;
+
+}
+.wrapper
+{
+    display: flex;
+}
+h1
+{
+    text-align:center;
+}
+nav a
+{
+   color: navy;
+    text-decoration: none;
+    font-size: larger;
+    text-align: center;
+    
+}
+.about
+{
+width: auto;
+height: auto;
+margin: auto;
+}
+.wrapper
+{
+    display: flex;
+}
+
+p
+{
+    text-align: center;
+}
+
+ul
+{
+    text-align: center;
+    padding: 1;
+    margin: 2;
+    
+}
